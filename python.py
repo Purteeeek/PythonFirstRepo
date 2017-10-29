@@ -1,4 +1,4 @@
-print "Hello
+print "Hello"
 msg = "What up people"
 print(msg)
 
