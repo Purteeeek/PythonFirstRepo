@@ -1,2 +1,2 @@
-print "Hello World."
+print "Hello"
 print "what up people?"
