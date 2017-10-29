@@ -1,2 +1,3 @@
 print "Hello World."
-print "what up people?"
+msg = "What up people"
+print(msg)
